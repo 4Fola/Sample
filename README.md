@@ -8,7 +8,7 @@ Upon completion of the first prototype using mostly wooden and plywood materials
 **Sample Two**: Blogs<br>
 #Links: <br>
   https://climateyou.org/?s=Afolabi+Ibitoye<br>
-  https://climateyou.org/2018/10/19/climate-change-what-i-can-do-by-city-tech-blogger-ibitoye-afolabi/<br>  
+  https://climateyou.org/2018/10/19/climate-change-what-i-can-do-by-city-tech-blogger-ibitoye-afolabi/<br>
   https://climateyou.org/2018/11/14/climate-change-understanding-the-skeptics-by-city-tech-blogger-ibitoye-afolabi/<br>
   https://climateyou.org/2019/01/07/combating-climate-change-by-city-tech-blogger-ibitoye-afolabi/<br>
   https://climateyou.org/2018/11/29/the-effects-of-climate-change-by-city-tech-blogger-ibitoye-afolabi-b/<br>  
