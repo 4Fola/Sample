@@ -13,4 +13,22 @@ Upon completion of the first prototype using mostly wooden and plywood materials
   https://climateyou.org/2019/01/07/combating-climate-change-by-city-tech-blogger-ibitoye-afolabi/<br>
   https://climateyou.org/2018/11/29/the-effects-of-climate-change-by-city-tech-blogger-ibitoye-afolabi-b/<br>  
 
-**Sample Three**:
+**Sample Three**: Hardware Security
+The focus of this text is on a layout-level Integrated Circuit Camouflaging – this technique addresses how to deter reverse engineering attacks on IC by using camouflaged cells that are similar and mimics any number of Boolean functions. Previously known techniques have already been broken through a de-camouflaging approach, that uses Boolean satisfiability technique to compute specialized discriminating input patterns that reduces the functionality search space quickly. CamoPerturb is the countermeasure proposed to counter this weakness by utilizing logic perturbation with IC; it does this by adding/removing one minterm as opposed to camouflaging the design.  Another box CamoFix restores the perturbed minterm to recover the designs functionality. This report postulates formal proofs for securing CamoPerturb.
+<p>The loss in billions through intellectual property piracy is enabled by the ability to reverse engineer integrated circuits which is done by depackaging, delayering, imaging of the individual layers, annotating the images, and extracting the netlist which is the motivation behind this report. IC Camouflaging is done by inserting false contacts, filler cells, programmable standard cells, or any variation thereof. The main proposed solution is to apply a simple transformation to a given design and then modify the functionality instead of concealing it – this method is called minterm perturbation. To demonstrate the effectiveness of CamoPerturb, the experiments were conducted on ISCAS’85 benchmark circuits & OpenSPARC controllers microprocessor. Available camouflaged gate selections techniques are weak against the DeCamo attack because they fail to account for the discriminating ability of inputs; while CamoPerturb complicates the attack by restricting an attacker to eliminate at most a single incorrect assignment per discriminating input through hiding the responses of the original to one minterm. This makes CamoPerturb effective against reverse engineering. </p>
+
+## License
+
+    Copyright MMXXII Afolabi I.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.  
