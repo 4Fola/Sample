@@ -12,8 +12,8 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 ### Category
 
 # Links:
-Delte Public Records: https://www.makeuseof.com/tag/how-to-delete-personal-data-public-record-websites/?utm_source=pocket_save
-Best GitHub Repos: https://www.makeuseof.com/github-repos-you-should-star/
+Delte Public Records: https://www.makeuseof.com/tag/how-to-delete-personal-data-public-record-websites/?utm_source=pocket_save <br>
+Best GitHub Repos: https://www.makeuseof.com/github-repos-you-should-star/ <br>
 # Sites:
 * [ ] Name, Age Addresses & Relatives
 * [ ] TruePeopleSearch
