@@ -19,7 +19,7 @@ The focus of this text is on a layout-level Integrated Circuit Camouflaging – 
 
 ## License
 
-    Copyright MMXXII Afolabi I.
+    Copyright MMXXII Fola
     Revised MMXXIII.XII.XXIII
 
     Licensed under the Apache License, Version 2.0 (the "License");
