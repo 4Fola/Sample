@@ -12,7 +12,7 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 ### Category
 
 # Links:
-<b> Delte Public Records: https://www.makeuseof.com/tag/how-to-delete-personal-data-public-record-websites/?utm_source=pocket_save </b> <br>
+<b> Delete Public Records: https://www.makeuseof.com/tag/how-to-delete-personal-data-public-record-websites/?utm_source=pocket_save </b> <br>
 <b> Best GitHub Repos: https://www.makeuseof.com/github-repos-you-should-star/ <b> <br>
 # Sites:
 * [ ] Name, Age Addresses & Relatives
@@ -46,4 +46,5 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] ThePublicRecords
 * [ ] AddressSearch
 * [ ] InstantCheckmate
+* [ ] <a href="https://www.fastpeoplesearch.com">FastPeopleSearch </a> <br>
 
