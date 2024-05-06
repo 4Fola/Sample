@@ -15,6 +15,8 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 <b> Delete Public Records: https://www.makeuseof.com/tag/how-to-delete-personal-data-public-record-websites/?utm_source=pocket_save </b> <br>
 <b> Best GitHub Repos: https://www.makeuseof.com/github-repos-you-should-star/ <b> <br>
 # Sites:
+
+* [ ] <a href="https://suppression.peopleconnect.us/login"> People Connecct </a> <br>
 * [ ] Name, Age Addresses & Relatives
 * [ ] TruePeopleSearch
 * [ ] PeopleSearchNow
