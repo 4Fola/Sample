@@ -16,7 +16,7 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 <b> Best GitHub Repos: https://www.makeuseof.com/github-repos-you-should-star/ <b> <br>
 # Sites:
 
-* [ ] <a href="https://suppression.peopleconnect.us/login"> People Connecct </a> <br>
+* [ ] <a href="https://suppression.peopleconnect.us/login"> People Connect </a> <br>
 * [ ] Name, Age Addresses & Relatives
 * [ ] TruePeopleSearch
 * [ ] PeopleSearchNow
