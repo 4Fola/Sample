@@ -14,8 +14,9 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 # Links:
 <b> Delete Public Records: https://www.makeuseof.com/tag/how-to-delete-personal-data-public-record-websites/?utm_source=pocket_save </b> <br>
 <b> Best GitHub Repos: https://www.makeuseof.com/github-repos-you-should-star/ <b> <br>
-# Sites:
+# Sites: <a href="https://pipl.com/](https://www.makeuseof.com/tag/15-websites-to-trace-people-online/"> How to Search for People for Free on the Internet  </a>
 
+* [ ] <a href="https://pipl.com/"> Pipl Search  </a>
 * [ ] <a href="https://suppression.peopleconnect.us/login"> People Connect </a> <br>
 * [ ] <a href="#"> Name, Age Addresses & Relatives</a>
 * [ ] <a href="#"> TruePeopleSearch</a>
@@ -49,6 +50,8 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] <a href="#"> AddressSearch  </a> 
 * [ ] <a href="#"> InstantCheckmate  </a> 
 * [ ] <a href="https://www.fastpeoplesearch.com">FastPeopleSearch </a> <br>
+* [ ] <a href="https://pipl.com/"> Pipl Search  </a>
+* [ ] 
 ## WAF Firewall Detection Tool:<br>
 * [ ] <a href="#"> GitHub: Wafw00f  </a> <br>
 * [ ] <a href="#"> GitHub: WAFNinja  </a> <br>
