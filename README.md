@@ -1,4 +1,4 @@
-# DTCC Report
+# Report
 
 **Sample One**: Abstract Sample <br/>
 <p>Accumulation of water runoff during rain storms affects New York City’s combination water system, forcing water treatment plants to release untreated excess water. Rather than allow this grey water to overfill the sewer system, pocket parks and gardens can be used to absorb rainfall. By harnessing nature’s resources through today’s technology we can also create solar and rain catching canopies to beautify, educate, and bring growth and social awareness to local businesses. </p>
